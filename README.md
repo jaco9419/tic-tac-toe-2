@@ -1,3 +1,6 @@
+You can play it yourself on https://jaco9419.github.io/tic-tac-toe-2/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
