@@ -89,7 +89,7 @@ render() {
           'Go to Game Start';
     return(
     <li key={move}>
-      <button onClick={() => this.jumpTo(move)}>{desc}</button>  
+      <button className="moves" onClick={() => this.jumpTo(move)}>{desc}</button>  
     </li>
     )
   })
